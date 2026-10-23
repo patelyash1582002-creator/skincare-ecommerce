@@ -1,0 +1,1 @@
+/* Mobile navigation is initialized in main.js. */
